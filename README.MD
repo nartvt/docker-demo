@@ -9,6 +9,6 @@ Postgresql connect via ip address:
 # In postgresql.conf , find a line 
 listen_addresses="localhost" change to listen_addresses="*" and uncomment
 
-# remove --network on your run command 
+# can remove --network on your run command 
 
 
