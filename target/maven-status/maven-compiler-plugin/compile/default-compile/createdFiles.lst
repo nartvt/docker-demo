@@ -1,6 +1,6 @@
 com/example/demo/DockerDemoApplication.class
-com/example/demo/UserDTO.class
 com/example/demo/UserEntity.class
+com/example/demo/UserDTO.class
 com/example/demo/UserController.class
 com/example/demo/UserService.class
 com/example/demo/UserRespository.class
